@@ -1,0 +1,8 @@
+Bài 1: Bài toán dãy các đồng xu- Cho một dãy n đồng xu có giá trị tương ứng là c1, c2, . . . , cn, hãy nhặt một số các đồng xu sao cho tổng giá trị lớn nhất và không có 2 đồng xu nào kề nhau.
+Giải:
+- F[n] là ổng giá trị lớn nhất của n đồng xu và không có 2 đồng xu nào kề nhau.
+	- F[n] = max(F[n-1], F[n-2]+c[n]) với n > 2
+	- F[0] = 0, F[1] = C[1]
+• Bài toán robot nhặt các đồng xu
+• Bài toán cái túi 
+• Bài toán xâu con chung dài nhất (tham khảo)
