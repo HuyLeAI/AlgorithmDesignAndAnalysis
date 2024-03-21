@@ -1,0 +1,4 @@
+Bài 1: Tổng các số lẻ: 1 + 3 + 5 + ... + 2*n-1
+Tiếp cận 1: Đệ quy
+Tiếp cận 2: Bruteforce
+Tiếp cận 3: Cấp số cộng

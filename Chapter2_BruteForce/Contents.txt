@@ -1,0 +1,9 @@
+Bài 1: S = 1^2 + 2^2 + ... + n^2 (n >= 1)
+Bài 2: Selection sort
+Bài 3: So trùng ký tự String, Pattern hỏi pattern có là chuỗi con (nằm trong string hay không), nếu có trả về vị trí đầu tiên, nếu không trả về -1
+Bài 4: Bài toán tìm cặp điểm gần nhau nhất trong không gian 2 chiều
+Bài 5: Bài toán người bán hàng: Cho n thành phố, mà từ mỗi thành phố có thể đi đến bất
+kỳ thành phố khác với một khoảng cách cho trước, hãy
+tìm đường đi ngắn nhất từ một thành phố và đi qua tất cả
+các thành phố khác đúng một lần rồi trở về thành phố
+xuất phát
